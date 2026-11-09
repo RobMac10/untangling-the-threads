@@ -1,0 +1,752 @@
+{
+  "title": "The Story of Us",
+  "subtitle": "Untangling the Threads",
+  "editor": "Robin Truasheim",
+  "year": 2025,
+  "source_pdf": "assets/pdf/The-Story-of-Us-Untangling-the-Threads.pdf",
+  "page_count": 48,
+  "cover": {
+    "src": "assets/images/cover.png",
+    "w": 1000,
+    "h": 1205
+  },
+  "sections": [
+    {
+      "id": "editor",
+      "title": "Meet the Editor",
+      "nav": "Editor",
+      "kind": "story",
+      "pages": [
+        2
+      ],
+      "images": [
+        {
+          "src": "assets/images/p02-wedding.jpg",
+          "alt": "Wedding photograph of Robin Truasheim and Peter McKean, 1975",
+          "caption": "",
+          "size": "medium",
+          "page": 2
+        }
+      ],
+      "text": "In 2025 I am untangling our ancestral tapestry. As satellites map the world and digital archives and data bases bridge continents, I try to unravel the threads that make up The Story of US. These tales connect us to the people and places of the past as well as to each other in the most surprising ways.\n\n## Meet the Editor:\n\nOn January 25, 1975, Robin Truasheim and Peter McKean were joined in marriage at St Andrew’s Anglican Church in South Brisbane, a union that marked the beginning of their shared journey. In 2025, they uncovered a remarkable connection: a shared lineage tracing back to a mutual 3rd great-grandfather, William Mortimer (born 1805), and his wife, their 3rd great-grandmother, Fanny Kellett (born 1810). Through Frances, and William, we can explore The Story of Us, a rich tapestry that weaves in our English gentry ancestors—the illustrious Cromwell and Ingoldsby families—revealing a heritage steeped in history and legacy.\n\n[[fig 0]]",
+      "note": ""
+    },
+    {
+      "id": "fanny-tree",
+      "title": "The Story of Great Grandma Fanny (Frances) Kellet",
+      "nav": "Fanny’s tree",
+      "kind": "diagram",
+      "pages": [
+        3
+      ],
+      "images": [
+        {
+          "src": "assets/images/p03-chart.jpg",
+          "alt": "Family-tree chart centred on Frances (Fanny) Kellett, as printed",
+          "caption": "Family chart as printed (tap to enlarge)",
+          "size": "wide",
+          "page": 3
+        }
+      ],
+      "text": "",
+      "note": ""
+    },
+    {
+      "id": "journey",
+      "title": "Editor’s Note: The Kellett-Mortimer Journey from Cavan to Queensland",
+      "nav": "Cavan to Queensland",
+      "kind": "story",
+      "pages": [
+        4
+      ],
+      "images": [],
+      "text": "This is an amazing tale of Fanny (Frances) Kellett, born in 1810 in Cornashesk, Virginia, County Cavan, to Mary Bell and Charles Kellett, linen traders rooted in Lurgan’s bustling heart. Across the county in Mullagh, was William Mortimer, born 1805 to gentleman farmer David, growing up amidst flax fields and Protestant gentry. Their paths entwined, and on December 22, 1837, they wed in Dublin’s St. Michan’s, forging a union that would span continents. In Mullagh, they raised five children until the Great Famine (1845–1852) ravaged Ireland, rotting potatoes and dimming the linen trade. With ancestral Ingoldsby grit tracing back to our Cromwell kin, they set their sights on Queensland’s promise of land and opportunity, and both dreamed of charting a new course to Australia’s shores.\n\nTheir daughter Mary Frances, born December 29, 1841, in Lislin, Mullagh, married Robert Dawson Soden of Virginia, Cavan, in Balbriggan in 1862. At twenty, pregnant and bold, she joined her parents, William and Fanny, on the Cairngorm, a Black Ball ship captained by Hugh Auld, under Queensland’s assisted emigration scheme. Departing February 1863, the 92-day voyage was gruelling—steerage reeked, storms raged, and equatorial heat stifled. Mary Frances gave birth to Catherine (Kate) Soden on April 6, 1863, in the Indian Ocean, with a midwife’s aid and blankets for a cradle. Kate was one of three births aboard the voyage, which included the arrival of two girls and a boy. On July 2, 1863, the Cairngorm docked at Moreton Bay. Mary and Robert, with three-month-old Kate, settled at Pine Mountain near Ipswich, later farming corn and lucerne on 160 acres at Mt Beppo. They raised ten children: Kate, their eldest, grew up, married William Boneham in 1887, giving birth to twelve—William, James, John, Robert, Charles, Richard, Alice, George, Edward, Elizabeth, Kate and Arthur—before passing in Somerset in 1931.\n\nDaughter Letitia, born 1844, also sailed to Brisbane, marrying Alexander Martin on September 27, 1866, at St. John’s, now the Anglican cathedral in Brisbane. Alexander, born in 1840 in Rathfriland, County Down, had arrived on the ‘Duke of Newcastle’ in 1862, enduring steerage for his farmer’s dream. In Barolin near Bundaberg, they worked sugar-rich red soil, raising nine children over seventeen years. Their labour helped transform Bundaberg into Queensland’s sugar hub by the 1870s.\n\nFrom Cavan’s green hills to Australia’s frontier, the Kellett-Mortimer legacy we share endures, a testament to resilience and hope, and makes up the Story of Us.\n\n> Mary Frances is a McKean Great Grandmother and a Truasheim Great Aunt.\n\n> Letitia is a Truasheim Great Grandmother and a McKean Great Aunt.\n\n> Their parents Fanny and William are OUR Great Grandparents",
+      "note": ""
+    },
+    {
+      "id": "fanny",
+      "title": "The Story of 3rd Great Grandmother Fanny (Frances) Kellett.",
+      "nav": "Fanny Kellett",
+      "kind": "story",
+      "pages": [
+        5,
+        6
+      ],
+      "images": [
+        {
+          "src": "assets/images/p05-photo.jpg",
+          "alt": "Photograph printed with Fanny’s story",
+          "caption": "",
+          "size": "",
+          "page": 5
+        },
+        {
+          "src": "assets/images/p06-castle.jpg",
+          "alt": "Ruined castle beside a lake",
+          "caption": "",
+          "size": "",
+          "page": 6
+        }
+      ],
+      "text": "I was born in 1810 to Charles and Mary Bell Kellett, and in ‘37 wed William Mortimer, God love him, in Dublin’s St. Michan’s. In Mullagh, County Cavan, we made our home, a wee town cradled by hills. The 1840s near broke us, with family tragedy, then the hunger that swept Ireland like a banshee’s wail. A young mother I was, my heart stitched to our babes with my joys in a world gone dark.\n\nMullagh was a small bit of a place, a market town with stone houses huddled tight, a fairground for cattle, and fields that rolled to the sky. Our house sat near Mullagh Lough, where the heather’s scent was sweet as a summer’s dream, afore the blight turned all to ash. Your great granda William, a landed Mortimer to be sure, born in 1805, was a steady soul, his hands calloused from the land and the loom, weaving linen as my kin did. Our Protestant faith, rooted deep in our Cromwellian. Ingoldsby and Mortimer blood, was my anchor.\n\nThough we were but a handful among the local Catholic folk, we too knelt at St. Kilian’s Church, its plain walls a shelter… not yet the fine place it’d grow to be.\n\n[[fig 0]]\n\nBefore the ’40s, oh, life had a shine to it! Our first wee one we named Charles, came in ’39, and the others, Mary Frances ‘41, Fanny ‘43, Letitia ’44 (the saddest of years) and James ‘51 followed. I’ spent my time crooning by the fire, spinning yarns of the Ó Raghallaighs, O’Rourkes and Cavan’s old lords and Princes of East Breifne, their castles nearby in ruins.\n\n[[fig 1]]",
+      "note": ""
+    },
+    {
+      "id": "oreillys",
+      "title": "Editor’s Note:",
+      "nav": "O’Reillys",
+      "kind": "story",
+      "pages": [
+        7
+      ],
+      "images": [],
+      "text": "The Ó Raghallaighs (O’Reillys) were a prominent Gaelic Irish family in the region of Breifne, which includes Mullagh in County Cavan, during its early history.\n\nMullagh, means \"the hilltop\" in Irish (An Mullach), is a town in County Cavan with a history stretching back centuries. The Ó Raghallaighs emerged as a significant family in the region during the medieval period. Originating as a sept of the Muintir Maelmórdha tribe in Breifne, they initially served as vassals to the more dominant O’Rourkes. By the early 12th century, the Ó Raghallaighs were tasked with controlling Machaire Gaileng (the plain of the Gailenga, an area that includes parts of modern-day Mullagh) on behalf of the O’Rourkes. This arrangement positioned them as a subordinate but influential family in the region.\n\nThe Ó Raghallaighs’ fortunes changed dramatically when Tiernán O’Rourke, King of Breifne, was betrayed and killed by Hugh de Lacy in Athboy in 1172. Seizing the opportunity, the Ó Raghallaighs allied with de Lacy, driving the O’Rourkes into western Breifne and briefly taking control of the entire kingdom. This marked the establishment of East Breifne as an independent kingdom under their rule, with Mullagh falling within their sphere of influence. They became known as the Princes of East Breifne, a title they held through the Anglo-Norman invasion led by Strongbow in 1172.\n\nThe Ó Raghallaighs were renowned castle builders, and their presence in Mullagh is evidenced by their construction of Cloghballybeg Castle on the shores of Mullagh Lake, built by Conor Mór O’Reilly. His son, Conor O’Reilly, also constructed Muff Castle nearby. These fortifications highlight their strategic control over the area, with Mullagh serving as a key location due to its proximity to Mullagh Lake and its position on the Virginia Road. Their chief stronghold was at Tullymongan in Cavan town, but their influence extended across East Breifne, including Mullagh.\n\nThe Ó Raghallaighs maintained their territory despite external pressures, eventually surrendering the principality to Queen Elizabeth I in the late 16th century to preserve their lands. Their name, derived from \"Raghallach\" (meaning \"courageous\" or \"valiant\" in Gaelic), reflects their reputation as a formidable lineage. In Mullagh’s early years, they would have been central to local governance, land management, and defence, shaping the region’s medieval history.",
+      "note": ""
+    },
+    {
+      "id": "fanny-ctd",
+      "title": "Fanny ctd…",
+      "nav": "Fanny ctd",
+      "kind": "story",
+      "pages": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "images": [
+        {
+          "src": "assets/images/p09-graves.jpg",
+          "alt": "Old gravestones in a churchyard",
+          "caption": "",
+          "size": "medium",
+          "page": 9
+        },
+        {
+          "src": "assets/images/p09-couple.jpg",
+          "alt": "Old portrait photograph of a couple",
+          "caption": "",
+          "size": "small",
+          "page": 9
+        },
+        {
+          "src": "assets/images/p10-market.jpg",
+          "alt": "Painting of famine-era villagers with a potato harvest",
+          "caption": "",
+          "size": "",
+          "page": 10
+        },
+        {
+          "src": "assets/images/p10-statues.jpg",
+          "alt": "Famine memorial statues",
+          "caption": "",
+          "size": "",
+          "page": 10
+        },
+        {
+          "src": "assets/images/p11-crowd.jpg",
+          "alt": "Painting of a crowd outside a building",
+          "caption": "",
+          "size": "",
+          "page": 11
+        },
+        {
+          "src": "assets/images/p12-heron.jpg",
+          "alt": "A woman at the lough’s edge",
+          "caption": "",
+          "size": "small",
+          "page": 12
+        },
+        {
+          "src": "assets/images/p12-book.jpg",
+          "alt": "Book cover: They Came Direct “Cairngorm” 1863, compiled by Eileen D. Johnson",
+          "caption": "They Came Direct “Cairngorm” 1863",
+          "size": "small",
+          "page": 12
+        }
+      ],
+      "text": "William tilled the fields and wove his linen, a trade that kept the pot full when the markets smiled. Mullagh’s fairs, six times a year, were a bustle—traders from Bailieborough and Kells, buying our flax, our eggs … a scrap of cloth. In the year of ’44, a shadow fell upon us, one I’ll never forget, as a cruel disease stole my newly widowed sister, Letitia Kellett Soden, and her two dear wee daughters, Jane and Mary Soden, from this world.\n\nLetitia, was my elder sister, had been widowed and left to raise her children alone in her small corner of County Sligo. Although a strong Kellett woman, losing her husband had worn her thin. Her daughters, Jane and Mary, bright young wee bairns, full of life, so young—\n\nIn that spring of 1844—not long after the potato crop began to show signs of trouble, though the true blight was still a year off—a sickness came to Sligo. It was cholera, they said, though some whispered of typhus. The air was heavy with fear, for we’d heard tales of the disease from years before, how it swept through towns like a reaper, sparing none. The doctors called it a miasma, born of foul water and crowded homes, but to us, it felt like a curse. Sligo, with its port and bustling streets, was no stranger to such plagues, and our homes, simple and close-knit, offered little protection.\n\nIt began with Letitia. She fell ill sudden-like, gripped by a fever and a terrible sickness in her stomach. She couldn’t keep food down, and her strength faded fast. I went to her, bringing what remedies I knew—boiled water, a bit of broth—but her eyes were sunken, her skin cold. The doctor came too late, muttering about cholera’s merciless speed. Within days, she was gone, her body too weak to fight. I wept for her, my sister, who’d borne so much already.\n\nJane and Mary, poor lambs, were next. They’d been tending to their mother, fetching water, holding her hand… Perhaps it was the water from the well, tainted by the disease, or the closeness of their care that spread it. Jane fell first, her small frame shaking with chills, her voice calling for her mother even as she slipped away. Mary followed not two days later, her cries quieter, as if she knew her fate. They died within hours of each other, in that same small house, leaving a silence that broke my heart.\n\nThe cholera—for that’s what the doctor confirmed it was—struck hard that year. It wasn’t the great outbreak of ’49, but it was fierce in that corner of Sligo. The disease cared not for family or faith, taking both young and old alike. We buried Letitia, Jane, and Mary in the churchyard, a hurried affair, for fear the sickness would spread further. The priest spoke of God’s will, but I could only think of the emptiness left behind.\n\n[[fig 0]]\n\nThe deaths of my dear sister Letitia and her daughters left her boys—Edward, Charles, and young Robert—alone in the world. They were just lads. Edward the eldest was only twelve. For poor wee Robert, seven and without his Da, the loss of his mother and sisters nearly broke his tender heart. It was a heavy time in Rathfriland, the land already struggling, with whispers of darker days ahead. Amidst such sorrow, I found a glimmer of joy in giving birth to my own wee daughter, whom I named Letitia to honour my newly departed sister.\n\n**Editor Note:** Years later, Robert’s marriage to Mary Frances Mortimer would bring a sense of healing, stitching together the bonds that grief had torn apart.\n\n[[fig 1]]\n\n## Fanny ctd …\n\nIn ’45, the blight crept in, a thief in the night, and the potatoes rotted black, and didn’t our world turn to shadows!\n\n[[fig 2]]\n\nThe Famine, ach! It stole more than bread—it snatched hope, neighbours, the laughter of children… The praties, our life’s blood, were muck in the earth. By ’46, hunger clawed at us, fierce as a wolf. I’d wake to the children’s sobs, their faces all bones, and my heart would splinter, with naught but watery porridge to hush them. William, bless him, broke stones on the relief roads for a shilling, but sure, it barely bought the Quaker’s Indian meal, yellow and coarse. I’d stand in the queue, other mammies beside me, Letitia tugging my skirts, too small to know why her belly wailed.\n\n[[fig 3]]\n\nMullagh’s streets fell silent, like a song forgotten. The fairs faded, the market square bare but for hollow-eyed folk, hands outstretched. The parish, nigh on 6,000 souls, wept for hundreds lost to fever—cholera, typhus, the dysentery that spared none. I saw coffins borne to Garvary Wood, or bodies wrapped in rags when timber ran dry.\n\n[[fig 4]]\n\nThe workhouse in Kells, six miles off, was a dread place, its walls a tomb. We vowed we’d never cross its threshold, though the threat hung over us like a storm. As landlords and the Mortimer gentry here, we pressed for rent. Like the Maxwells of Farnham, we had a kinder name, but the middlemen? Och! they’d tumble a cabin for a penny owed.\n\nBeing Protestant set us apart. Our ancestral ties to the gentry, through the Mortimers, Ingoldsbys, and Cromwells, shielded us little. Whispers of “soupers”—folk trading faith for food — sowed mistrust. I shared what I had, a fistful of meal and a prayer, with Catholic neighbours, as pain it turns out, knows no church. My children were my stars, and I’d sew by rushlight’s flicker, patching their clothes, teaching our eldest Charles and Mary Frances, and my Soden nephews, their ABCs, dreaming they would all know a world kinder than this.\n\nBy ’47, **Black ’47**, Cavan’s darkest year, Mullagh was a graveyard, its heart stilled. Ships called from Newry, singing of America and Canada, but tales of coffin ships chilled our bones. Friends sailed, their homes left to crumble, and Cavan shrank—243,000 in ’41 to 174,000 by ’51, so they say.\n\nWilliam and I clung on for our babes. I’d wander to the lough, praying for strength, watching herons lift like ghosts over the water. Our Puritan roots, stern as the hills, held us fast—God’s will, we whispered, would carry us through.\n\n[[fig 5]]\n\nAs the ’40s waned, the blight softened, but Mullagh wore its wounds. We survived, thinner, wearier, but alive. We dreamed of a new dawn, and in ’63, that dream sailed us to Queensland and the beginning of our Australian Story.\n\n[[fig 6]]",
+      "note": ""
+    },
+    {
+      "id": "kellett-ancestors",
+      "title": "The Story of Our Kellet Ancestors",
+      "nav": "Kellet ancestors",
+      "kind": "story",
+      "pages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "images": [
+        {
+          "src": "assets/images/p13-crest.jpg",
+          "alt": "Coat of arms",
+          "caption": "",
+          "size": "small",
+          "page": 13
+        },
+        {
+          "src": "assets/images/p14-tree.jpg",
+          "alt": "Typed Kellett family tree, as printed",
+          "caption": "Typed family tree as printed (tap to enlarge)",
+          "size": "wide",
+          "page": 14
+        },
+        {
+          "src": "assets/images/p15-chart.jpg",
+          "alt": "Family-tree chart, as printed",
+          "caption": "Family chart as printed (tap to enlarge)",
+          "size": "wide",
+          "page": 15
+        }
+      ],
+      "text": "Our story is rooted in the gentry’s pride, where the Kelletts and Mortimers, steadfast Protestants, held fast to land and faith. In Cavan, amidst the Great Famine’s trials, I spun tales for Mary Frances and Letitia, stories of kin tied to the Cromwells of Huntingdon and the Ingoldsbys of Buckinghamshire. Sir Richard Ingoldsby, born around 1590, stands at the core, his marriage to Elizabeth Cromwell on October 24, 1613, a spark that united two families. Their daughter Anne Ingoldsby carried this legacy to a Mary Chaloner in the 17th century, while Mary “Cherrie” Chaloner, brought the Chaloner legacy into our Kellett fold, enriching our narrative with her courage and grace. This is the story of us — love kindled in unity, tested by war’s shadows, and carried by mothers and daughters to Queensland’s new dawn. It’s a ballad of resilience, lit by women like my mother and great-grandmother, and radiant with Cherrie’s spirit.\n\n[[fig 0]]\n\n[[fig 1]]\n\n[[fig 2]]\n\nThe Kelletts and Mortimers, kept our faith strong through tough times. In Cavan, during the Great Famine, I told my children tales of our kin, connected to the famous Cromwells from Huntingdon and the Ingoldsbys from Buckinghamshire. We trace our line back to Sir Oliver Cromwell, our 11th great-grandfather, born around 1562 in Huntingdonshire, England. He was a knight and Member of Parliament, living in the grand Hinchingbrooke House, passed down from his father, Sir Henry Williams, also called Cromwell. Sir Oliver married Elizabeth Bromley, and their daughter, Elizabeth Cromwell, our 10th great-grandmother, married Sir Richard Ingoldsby, linking us to the Ingoldsby family of Lenborough, Buckinghamshire.\n\nTheir son, Colonel Sir Richard Ingoldsby, our 9th great-uncle, did something bold—he signed King Charles I’s death warrant in 1649, helping start the Commonwealth of England, a Puritan republic from 1649 to 1653 that ended the monarchy for a time. This brave act tied our family to our cousin Oliver Cromwell, the Lord Protector, who led England during this big change. The Ingoldsbys’ influence spread to Ireland through folks like Sir Henry Ingoldsby, the 1st Baronet, and reached down to our great-grandfather, William, keeping our family’s story alive across the years.\n\n## The Tale of Betty and John Chaloner\n\nNow, let me tell you about Betty and John Chaloner, a couple whose love story is a bright part of our family’s tale. Betty, called Lady Betty Parsons, was born in 1675 in Birr, County Offaly, Ireland, to Katherine Lacy and Sir William Parsons, a baronet who owned the grand Birr Castle. John Chaloner, born in 1658 in Guisborough, Yorkshire, England, was a preacher, a Rev. Chaplain who served on the big Royal Navy ship HMS Royal Sovereign and worked in Garvagh, County Londonderry, and later settled in Rathmore, Moynalty, County Meath, Ireland.\n\nTheir love began in 1695 at a fancy ball in Dublin, where important families from Ireland and England met. I can picture Betty, glowing in her dress, catching John’s eye as he stood proud, his preacher’s heart warmed by her smile. They fell in love and married, joining Ireland’s gentry with England’s, like a bridge between two worlds. Betty was kind, always helping the poor in Birr with food and blankets. John was brave, praying with sailors on the Royal Sovereign during stormy seas and preaching in Garvagh to help people heal after hard times. Later, they moved to Rathmore, Meath, where John kept preaching, and Betty cared for their home.\n\nThey had six children—four boys and two girls, including their daughter Mary, nicknamed “Cherrie,” born in 1700 when Betty was 25 and John was 42. Cherrie was special to our family because she married a Kellett man around 1720, bringing her parents’ story into our Kellett line. Life wasn’t always easy for Betty and John. In 1703, their son William got very sick with a fever, and they worried he might not make it. But Betty nursed him, and John prayed, and William got better, making their family stronger.",
+      "note": ""
+    },
+    {
+      "id": "cherrie",
+      "title": "The Story of Mary “Cherrie” Chaloner",
+      "nav": "Cherrie Chaloner",
+      "kind": "story",
+      "pages": [
+        17
+      ],
+      "images": [
+        {
+          "src": "assets/images/p17-fan.jpg",
+          "alt": "Fan-style ancestry chart, as printed",
+          "caption": "Ancestry chart as printed",
+          "size": "wide",
+          "page": 17
+        }
+      ],
+      "text": "## Great Grandmother x 7\n\nAs a Kellett, Cherrie was a woman of grace and grit, raising her family through Ireland’s 18th-century trials—land disputes, economic shifts, and whispers of rebellion. The Commonwealth’s* twists tested our kin, but our matriarchal line of strength and Cherrie’s enduring spark, carried us from Hinchingbrooke to Cavan, from Rathmore to Queensland.\n\nCherrie was born in 1700 in Rathmore, Moynalty, County Meath, Ireland, to Betty Parsons, aged 25, and John Chaloner, aged 42. Betty, known as Lady Betty, was born in 1675 in Birr, Offaly, to Katherine Lacy and Sir William Parsons, a baronet whose family held Birr Castle. John, born in 1658 in Guisborough, Yorkshire, was Rev. Chaplain Garvagh Londonderry, serving on HMS *Royal Sovereign* and ministering in Garvagh and Rathmore, his faith a pillar of their home.\n\n[[fig 0]]",
+      "note": ""
+    },
+    {
+      "id": "elizabeth-cromwell",
+      "title": "The Story of Great Grandmother Elizabeth Cromwell",
+      "nav": "Elizabeth Cromwell",
+      "kind": "story",
+      "pages": [
+        18,
+        19,
+        20
+      ],
+      "images": [
+        {
+          "src": "assets/images/p20-house.jpg",
+          "alt": "Engraving of a large country house",
+          "caption": "",
+          "size": "medium",
+          "page": 20
+        }
+      ],
+      "text": "I am Elizabeth Cromwell, born around 1595 in the golden halls of Hinchingbrooke House, Huntingdon. My life has been a tapestry of love’s warmth, war’s shadow, and a legacy that stretches beyond my years. As the daughter of Sir Oliver Cromwell and Elizabeth Bromley, sister to many, and wife to Sir Richard Ingoldsby, I’ve seen our family’s story unfold through feasts and follies, triumphs and trials. This is the story of us—my parents, my father’s second wife Anne, my uncle Robert, my cousin Oliver, and my Ingoldsby kin—a tale of sparks that lit our path and twists that tested our hearts.\n\n## My Father, Sir Oliver, and the Golden Legacy\n\nMy father, Sir Oliver Cromwell, was a man of boundless dreams, born around 1562 to Sir Henry Cromwell, the “Golden Knight.” Grandfather Henry’s wealth, built on lands from the Dissolution, made Hinchingbrooke a palace of splendour. Father inherited his father’s flair, hosting kings and lords with feasts that echoed through our halls. I remember him in his prime, knighted by Queen Elizabeth in 1598, a High Sheriff and MP, his voice carrying our shire’s hopes. But his heart was too grand for his purse, and debts shadowed our home.\n\nFather’s love for grandeur came from Grandfather Henry, who died in 1604, leaving us a legacy of honour and a warning: gold glitters, but it slips away. I was a child then, watching Father strive to match that shine, his eyes alight with ambition. Yet I saw the strain, the cost of keeping Hinchingbrooke’s fires burning, and I learned early that love and legacy come with a price.\n\n## My Mother, Elizabeth Bromley, the Heart of Our Home\n\nMy mother, Elizabeth Bromley, was the steady flame in our family’s hearth. Born around 1566, daughter of Lord Chancellor Sir Thomas Bromley, she married Father before 1586, bringing wisdom and grace to Hinchingbrooke. She bore thirteen of us—Henry, Thomas, John, myself, and others—each birth a testament to her strength. I see her still, managing our bustling household, her quiet resolve balancing Father’s extravagance. She taught me to read, to pray, and to hold fast to family, no matter the storm.\n\nMother’s hands wove our lives together, but in 1603, when I was just a girl, she faded. Perhaps the toll of so many children, or some silent sickness, stole her from us. Her death left Hinchingbrooke hollow, and Father’s eyes dimmed. I was too young to grasp the void, but I carried her lessons forward, vowing to be a strength for my own family one day. Her loss was our first great twist, a chapter closed too soon.\n\n## Father’s Second Chapter with Anne Hooftman\n\nAfter Mother’s passing, Father found love again with Anne Hooftman, a widow of wealth and spirit. Anne, once married to the financier Sir Horatio Palavicini, brought her three sons and a fortune to our home. She was different from Mother—worldly, vibrant, her Antwerp roots added new colours to our story. She bore Father four children—Oliver, Mary, Giles, and Anna—blending our families with care. I admired her, a stepmother who treated us as her own, her laughter filling the halls where Mother’s voice had faded.\n\nAnne’s wealth eased Father’s debts, but his feasts continued, hosting King James in 1617. I helped her manage the household, learning to balance love and duty. Alas, in 1620, Anne, too, was taken, her health failed. Father stood alone again, and I, now a young woman, felt the weight of our family’s fragility. Anne’s spark had burned bright, but her loss reminded me that even the strongest flames can flicker out.\n\n## Uncle Robert and Cousin Oliver: A Family Divided\n\nMy uncle Robert Cromwell, Father’s younger brother, lived a quieter life in Huntingdon, married to Elizabeth Steward. Their son, my cousin Oliver, born in 1599, was my father’s godson, a boy with a fire I didn’t yet understand. Uncle Robert, a justice of the peace, died in 1617, leaving his family to forge their own path. Oliver, though, was destined for more. By the 1640s, as England tore itself apart in civil war, he rose as a Parliamentarian leader, his name shaking the kingdom.\n\nFather, a Royalist at heart, clashed with Oliver’s cause. I remember the pain of 1643, when Ramsey Abbey, our family’s retreat, was searched for arms, and 1644, when Father was briefly imprisoned. Oliver’s rise to Lord Protector in 1653 was a marvel, but it divided us. I loved my cousin, but his path broke our family’s heart, a twist that mirrored England’s wounds. Yet his strength, born of our shared blood, made me proud, even as I mourned our fractured bond.\n\n## My Life with Sir Richard Ingoldsby: A New Legacy\n\nIn 1613, I married Sir Richard Ingoldsby, a Buckinghamshire knight whose family hailed from Lincolnshire’s gentry. Our wedding in Huntingdon was a spark of joy, tying the Cromwells to the Ingoldsbys. Richard, born around 1590, was kind and ambitious, and together we built a life, raising fourteen children, including our sons Richard and Henry, who would carry our name through war and change.\n\nOur son Colonel Sir Richard Ingoldsby, born in 1617, became a Parliamentarian, serving under cousin Oliver and signing King Charles I’s death warrant as a regicide. His courage, and his survival of the Restoration with a knighthood in 1662, filled me with awe. Our son Sir Henry, a baronet, steadied our family’s place in Buckinghamshire and Ireland, his lands a new chapter. Our grandson John Ingoldsby sailed to Boston, planting our legacy across the sea.\n\n## The Commonwealth: Our Family’s Stage\n\nThe Commonwealth, from 1649 to 1660, was the crucible of our story. After King Charles I’s execution, England became a republic, with cousin Oliver at its heart. As Lord Protector from 1653, he ruled with an iron hand, his conquests in Ireland and Scotland shaping a turbulent era. My son Richard’s role as a regicide tied us to this upheaval, while Father’s Royalist leanings and imprisonment showed our family’s divisions. The Commonwealth’s end in 1660, with Charles II’s restoration, closed a chapter, but our legacy lived on through my children and Oliver’s name.\n\n## The Final Page\n\nBy 1655, Father died at Ramsey Abbey, aged 93, his dreams in later years were of were of Hinchingbrooke, sold to pay debts. Cousin Oliver, the Lord Protector, shone brightest, but I like to think my Ingoldsby children carried our spark further. From Father’s golden feasts to Mother’s quiet strength, from Anne’s vitality to Oliver’s iron will, our story is one of us—flawed, fierce, and bound by love.\n\n[[fig 0]]",
+      "note": ""
+    },
+    {
+      "id": "oliver-cromwell",
+      "title": "The Story of Us: A Cromwell and Ingoldsby Tale",
+      "nav": "Sir Oliver Cromwell",
+      "kind": "story",
+      "pages": [
+        21,
+        22,
+        23
+      ],
+      "images": [
+        {
+          "src": "assets/images/p21-portrait.jpg",
+          "alt": "Portrait of a gentleman in Tudor-era dress",
+          "caption": "",
+          "size": "small float",
+          "page": 21
+        },
+        {
+          "src": "assets/images/p22-seated.jpg",
+          "alt": "Portrait of a seated gentleman",
+          "caption": "",
+          "size": "small",
+          "page": 22
+        },
+        {
+          "src": "assets/images/p23-glass.jpg",
+          "alt": "Stained-glass window",
+          "caption": "Elizabeth Bourchier married Oliver Cromwell in this Church on 22nd August 1620",
+          "size": "",
+          "page": 23
+        }
+      ],
+      "text": "## The Tale as told by Great Grandfather Sir Oliver Cromwell\n\n[[fig 0]]\n\nI’m Sir Oliver Cromwell, standing in the halls of Hinchingbrooke House, where the walls hum with the echoes of my life’s highs and lows. Born around 1562 in Huntingdon, I’ve lived a story that feels like a ballad—full of love’s fire, heartbreak’s sting, and a legacy that twists through England’s heart. This is the story of us: my father Sir Henry, my wives Elizabeth Bromley and Anne Hooftman, my brother Robert, my nephew Oliver, who’d one day rule this land, and my daughter Elizabeth, whose marriage to Sir Richard Ingoldsby tied our name to another. It’s a tale of feasts and debts, of loyalty and division, and of a spark that never quite fades.\n\n## Chapter One: The Golden Days with My Father\n\nMy father, Sir Henry Cromwell, was the sun of our world, the “Golden Knight” whose wealth lit up Huntingdonshire. Born around 1537, he inherited lands from my grandfather Sir Richard, who’d won favour under King Henry VIII. Hinchingbrooke, once a nunnery, became our castle, its towers reaching for glory. Father married Joan Warren, a gentle soul, and they raised eight of us—me, Robert, and our siblings. He threw feasts that drew lords from across the realm, his laughter filling the air. I was his heir, the boy who dreamed of matching his shine.\n\nBut gold slips through fingers. Father’s generosity outpaced his purse, and when he died in 1604, he left me Hinchingbrooke, a seat in Parliament, and a lesson: splendour comes at a cost. I was 42, a knight since ’98, and ready to write my chapter. The spark was there, but I didn’t see the twist coming.\n\n## Chapter Two: Elizabeth Bromley, My First Love\n\nI met Elizabeth Bromley in my youth, her eyes sharp with wit, her heart steady as the stars. Daughter of Sir Thomas Bromley, Lord Chancellor, she was my match in ambition. We wed before 1586, and she filled Hinchingbrooke with life. Our love was a fire, burning bright as we raised thirteen children—Henry, Thomas, John, and our Elizabeth, who’d one day carry our name to the Ingoldsbys. Each birth tested her, but she never faltered, managing our home while I chased dreams of grandeur.\n\nI hosted King James I in 1603, my feasts rivalling my father’s. Elizabeth warned me of the cost, but I couldn’t stop. I was High Sheriff, a voice in Parliament, knighted by Queen Elizabeth herself. Yet, that year, the spark flickered… Elizabeth fell ill, her strength sapped, perhaps by the weight of our family. She died, leaving me alone in a house too quiet, my heart a book slammed shut. I didn’t know how to turn the page.\n\n## Chapter Three: Anne Hooftman, A New Verse\n\nA year or two later, I met Anne Hooftman, a widow whose wealth and warmth rekindled my hope. She’d been married to Sir Horatio Palavicini, a financier whose fortune came from distant shores. Born in Antwerp, Anne brought a worldly grace to Hinchingbrooke when we wed around 1604. She bore me four children—Oliver, Mary, Giles, and Anna—blending her sons from Horatio with mine. Her money eased my debts, but I spent it on more feasts, hosting King James again in 1617.\n\nAnne was my partner, her strength a melody to my reckless rhythm. But in 1620, she too was taken, her health fading like a song’s last note. I stood in Hinchingbrooke, twice widowed, my dreams of glory dimming. The story of us was fraying, and I couldn’t see the next chapter.\n\n## Chapter Four: Robert and Oliver, A Family Divided\n\nMy brother Robert lived a quieter life, content in Huntingdon with his wife Elizabeth Steward. Their son, my nephew and godson Oliver, born in 1599, had a fire I didn’t yet understand. Robert died in 1617, a justice of the peace but no match for my wealth. Young Oliver, though, was different. By the 1640s, as England split in civil war, he rose as a Parliamentarian, his voice shaking the kingdom.\n\nI leaned toward the King, my Royalist heart at odds with Oliver’s cause. In 1643, my Ramsey Abbey was searched for arms; in 1644, I was imprisoned, a bitter twist for a man whose nephew led armies. Oliver became Lord Protector in 1653, his name eclipsing mine. I watched from the shadows, proud yet torn, our family a mirror of England’s wounds. The spark of our bond flickered, but the story wasn’t over.\n\n[[fig 1]]\n\n## Chapter Five: The Ingoldsby Legacy\n\nMy daughter Elizabeth, born to my first wife, carried our light forward. She married Sir Richard Ingoldsby, and their sons—Colonel Sir Richard and Sir Henry—wove our name into the Commonwealth’s fabric. Richard Ingoldsby, a regicide, served under my nephew Oliver, signing King Charles I’s death warrant. Henry became a baronet, steadying the family through turbulent times. My grandson John Ingoldsby even sailed to Boston, seeking a new verse across the sea.\n\nElizabeth and Richard’s union tied the Cromwells to the Ingoldsbys, their story a bridge between my feasts and Oliver’s rule. They faced their own twists—war, exile, restoration—but their spark endured, a legacy of resilience.\n\n## The Final Page\n\nBy 1627, my debts forced me to sell Hinchingbrooke to Sir Sidney Montagu, a cut deeper than any blade. I retreated to Ramsey Abbey, living through the war’s chaos until 1655, when I died at 93. Oliver, the Lord Protector, was at his peak, his story outshining mine. Yet I see it now—the story of us wasn’t just mine. It was my father’s golden dreams, Elizabeth Bromley’s love, Anne Hooftman’s strength, Robert’s quiet faith, Oliver’s iron will, and Elizabeth Ingoldsby’s enduring line.\n\nWe were a family of sparks and stumbles, love and loss, caught in England’s great unravelling. From Hinchingbrooke’s halls to Whitehall’s power, from Huntingdon to Boston, our story lives on. When I’m gone, I’d like to think we’re still writing, page by page, in the hearts of those who remember us.\n\n[[fig 2]]",
+      "note": ""
+    },
+    {
+      "id": "ingoldsby",
+      "title": "The Tale as told by Great Grandfather Sir Richard Ingoldsby",
+      "nav": "Sir Richard Ingoldsby",
+      "kind": "story",
+      "pages": [
+        24,
+        25,
+        26
+      ],
+      "images": [
+        {
+          "src": "assets/images/p26-warrant.jpg",
+          "alt": "Wax seals and signatures on an old parchment",
+          "caption": "",
+          "size": "",
+          "page": 26
+        }
+      ],
+      "text": "I am Sir Richard Ingoldsby, born in 1590 in Lethenborough, Buckinghamshire, a man who lived through the fire and fury of England’s civil wars, a time when loyalties were tested and the very crown trembled. I married my steadfast Elizabeth Cromwell before 1614, daughter of Sir Oliver Cromwell of Hinchingbrooke House, whose lineage tied us to the heart of England’s upheavals. Together, we raised twelve children who survived to adulthood, each bearing the weight of our name and the storms of our era. Among them, our sons Colonel Sir Richard Ingoldsby (1617–1685), Sir Henry Ingoldsby, 1st Baronet (1622–1701), and John Ingoldsby (1621–c. 1684) forged paths that stretched from England’s battlefields to Ireland’s green fields and across the Atlantic to the New World. Their descendants, carrying our blood, became a bridge to distant lands, their stories a testament to our family’s enduring spirit. Let me share their journeys, with particular attention to my eldest son Richard’s role as a regicide and the political currents that shaped his life.\n\nMy eldest, Richard, born in 1617 and baptized on the 10th of August, was a boy of sharp mind and fierce conviction, traits he inherited from his mother’s Cromwell lineage, for he was cousin to Oliver Cromwell, the Lord Protector. I sent him to Lord Williams’s School in Thame, Oxfordshire, and later to Gray’s Inn to study law, hoping he might serve the realm with wisdom until the English Civil War, erupted in 1642 turning his path towards the battlefield. Richard’s political leanings were firmly Parliamentarian, shaped by the Puritan zeal of his Cromwell kin and the growing discontent with King Charles I’s rule. He saw the king’s policies—taxation without consent, the imposition of Laudian reforms on the Church, and the dissolution of Parliament—as tyrannical, a betrayal of English liberties. By 1642, he joined John Hampden’s Regiment as a Captain, his heart set on defending Parliament’s cause against royal absolutism.\n\nRichard rose swiftly, becoming a Colonel in the New Model Army by 1645, commanding a regiment of foot with a discipline that mirrored the Puritan resolve of his mother’s family. He fought at the storming of Bridgwater and Bristol, though he missed the pivotal Battle of Naseby, detached to relieve Taunton. His military career brought him into the orbit of Oliver Cromwell, whose leadership he admired, yet it was his role in the king’s trial that marked him for history. In January 1649, Richard was appointed a Commissioner at the trial of Charles I, a decision that weighed heavily on my heart. The King stood accused of treason for waging war against his people, and Richard, now 31, believed in the justice of the cause, his Puritan faith and Parliamentarian ideals driving him to see the King’s execution as a necessary act to preserve the Commonwealth.\n\nOn January 30, 1649, Richard signed the king’s death warrant, one of 59 regicides to do so, a moment that would define his legacy. He later recounted a tale that Oliver Cromwell, with a laugh, held his hand and guided the pen, forcing him to sign—an anecdote I heard with scepticism, for Richard was no man to be coerced against his will. Yet, when the Restoration came in 1660, this story became his shield. The return of Charles II brought vengeance upon the regicides; many faced executions, their lands seized, their families ruined. Richard, fearing for his life, leaned on his service to General George Monck, who orchestrated the monarchy’s return. In December 1659, Richard seized Windsor Castle for the pro-monarchist Parliament, a strategic move to prove his loyalty to the new order. In April 1660, he captured the escaped John Lambert, a leading Cromwellian who opposed the Restoration, an act that earned him the thanks of the House of Commons and a pardon from Charles II.\n\nRichard’s political leanings, once so fiercely Parliamentarian, shifted with the tides. He had been a staunch supporter of the Commonwealth (Republic), serving as MP for Wendover in Buckinghamshire in 1647 and 1654, and sitting on the Council of State in 1652–1653, where he helped govern alongside Oliver Cromwell. Yet, his actions at the Restoration showed a pragmatic turn, a Royalist allegiance that spared him the fate of other regicides like Thomas Harrison, who was executed in 1660. Charles II, in gratitude for Richard’s role in securing the monarchy, knighted him a Knight of the Bath at the coronation in 1661, a moment of redemption I never thought I’d see. Richard continued his political career, elected MP for Aylesbury in Buckinghamshire from 1660 until he died in 1685, a moderate voice in a Parliament navigating the Restoration’s fragile peace. He married Elizabeth Lee, daughter of Sir George Croke, and was buried in Hartwell Church, Buckinghamshire, his legacy a blend of rebellion and reconciliation, his descendants carrying our name in England’s heartland.\n\nOur son Henry, born in 1622, took a path that led him to Ireland, where he rooted our name in its soil. Like Richard, Henry bore the mark of his mother’s Cromwell blood, but his early political leanings aligned with the Crown, serving as an officer under Charles I in the First Civil War. Yet, when the winds shifted, he pledged his loyalty to Oliver Cromwell, becoming a Colonel in the Parliamentarian forces. In 1649, he volunteered for Cromwell’s Irish campaign, fighting at the brutal Siege of Drogheda, a campaign marked by bloodshed that weighed on his conscience, though he saw it as a necessary act to secure Protestant rule. By 1651, he served under Henry Ireton at the Siege of Limerick, where he was appointed Governor, a role he held with a firm hand, ensuring the city’s loyalty to the Commonwealth.\n\nHenry’s service earned him vast grants of land in County Clare and County Meath, rewards for his loyalty in a land torn by conflict. He represented Clare, Limerick, and Kerry in the Protectorate Parliaments of 1654, 1656, and 1659, his voice a steady presence in Ireland’s governance. When Richard Cromwell fell and the Restoration loomed, Henry mirrored his brother’s pragmatism, seizing Windsor Castle in 1659 alongside Richard to hold it for the pro-monarchist Parliament, a move that secured his favour with Charles II. He was allowed to retain his Irish lands, and his Cromwellian baronetcy was confirmed as Baronet of Beggstown, County Meath, in 1660. Henry was appointed to the Privy Council of Ireland and continued to represent Clare in the Irish House of Commons in 1661–1666 and 1695–1699. In 1689, at the age of 67, he raised a regiment to fight for William III under General Schomberg, serving at the Siege of Carrickfergus, his loyalty to the Protestant cause unwavering. Henry married Anne, daughter of Sir Hardress Waller, another regicide, and their son George succeeded him as baronet. Henry died in Ireland in March 1701, leaving an Irish line that flourished, a testament to his adaptability and strength.\n\nOur son John, born in 1621, sought a quieter path, far from the battlefields of England and Ireland. While some thought he perished at sea, John ventured to America, settling in Boston, Massachusetts, by 1640, a young man of 19 seeking a new life in a new world. His political leanings, less documented than his brothers’, were likely shaped by the same Puritan ideals that ran through our family, though his migration suggests a desire for peace away from England’s conflicts. Before 1649, he married Ruth Griffin, a widow, and built a life in a land where the struggles of the English Civil Wars were but distant echoes. John became the ancestor of the American Ingoldsby families, his descendants spreading across the colonies, carrying our name to a frontier we could scarcely imagine, a testament to the courage it took to forge a path in an unknown world.\n\nOur sons’ descendants wove a vast network, spreading across England, Ireland, and America, each carrying the spirit of our family. Richard’s legacy in England endured through his political service, a regicide redeemed by his pragmatic shift to Royalism, his descendants likely remaining in Buckinghamshire, a steady presence in the Restoration’s political landscape. Henry’s Irish line flourished, rooted in the lands he governed and fought for, his baronetcy a symbol of our family’s adaptability, his progeny shaping Ireland’s Protestant gentry. John’s American descendants opened a new chapter, their lives a testament to the hope of renewal in a new world, their lineage spreading across the United States. Through them, our blood became a bridge to distant lands, a story of resilience, faith, and the unyielding ties of family, from the halls of Hinchingbrooke to the fields of Cavan, Limerick, and beyond to the shores of Boston.\n\n[[fig 0]]",
+      "note": ""
+    },
+    {
+      "id": "william",
+      "title": "The Story of 3rd Great Grandfather William Mortimer",
+      "nav": "William Mortimer",
+      "kind": "story",
+      "pages": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "images": [
+        {
+          "src": "assets/images/p27-chart.jpg",
+          "alt": "Family-tree chart for William Mortimer, as printed",
+          "caption": "Family chart as printed (tap to enlarge)",
+          "size": "wide",
+          "page": 27
+        },
+        {
+          "src": "assets/images/p30-engraving.jpg",
+          "alt": "Engraving of a 1798 scene",
+          "caption": "Father Murphy and the heretic bullets",
+          "size": "",
+          "page": 30
+        },
+        {
+          "src": "assets/images/p31-lakeview.jpg",
+          "alt": "Painting of a country house among trees",
+          "caption": "",
+          "size": "",
+          "page": 31
+        },
+        {
+          "src": "assets/images/p33-ship.jpg",
+          "alt": "Painting of a sailing ship",
+          "caption": "",
+          "size": "",
+          "page": 33
+        }
+      ],
+      "text": "[[fig 0]]\n\nI was born in 1805 in County Cavan, wed to my Fanny Kellett, God bless her, since ’37 in Dublin’s St. Michan’s.\n\nMy father, David Mortimer, born in 1771 and gone to his rest in 1841, was the heart of our line, a man of grit and faith, Protestant as the stones of St. Kilian’s. He was a member of the landed gentry who had lived through Ireland’s storms—born when the Penal Laws bit hard, he saw the 1798 Rising, when rebels roamed and folk guarded their grain. A Protestant, tied to gentry like the Mortimer ancestors, the Ingoldsbys and the Cromwells.\n\n## Editor’s Note:\n\nThe 1798 Rising, also known as the United Irishmen Rebellion, was a significant but ultimately failed uprising in Ireland against British rule, driven by a mix of republican ideals, economic grievances, and sectarian tensions. For a Protestant tied to the gentry, such as someone with connections to families like the Mortimers, Ingoldsbys, and Cromwells, this event would have been a time of profound fear, upheaval, and loyalty to the Crown. The impact on David Mortimer, set in the context for William’s life...\n\nThe Rising began in May 1798 and lasted through the summer, with sporadic fighting into September. Inspired by the American and French Revolutions, the United Irishmen, a group founded by both Protestants and Catholics, sought to overthrow British rule and establish an independent, egalitarian Irish republic. Economic hardships, including high rents, tithes, and grain shortages, fuelled discontent, particularly among the rural poor.\n\nThe rebellion saw major battles in Wexford, Antrim, and Down, with smaller skirmishes elsewhere. Rebels, often armed with pikes, attacked British forces, loyalists, and symbols of authority like landlords and magistrates. The British response was brutal, with the military, yeomanry, and militias like the Orange Order crushing the uprising, often with extreme violence. In 1798, grain was a vital resource, and with rebels roaming, both sides plundered food supplies. Loyalists, including the gentry, hoarded grain to protect their families and tenants, while rebels seized it to sustain their fight.\n\nA Protestant connected to gentry families like the Mortimers, Ingoldsbys, and Cromwells would likely have been part of the Anglo-Irish ascendancy, a privileged class of landowners loyal to the British Crown. The Mortimers were a well-known gentry family in County Down, often linked to estates and local governance. The Ingoldsbys had historical ties to the region, with some members serving as magistrates or military officers. The Cromwells, referencing descendants of Oliver Cromwell’s settlers, symbolized the Protestant establishment in Ireland, often associated with land confiscations after the 17th-century wars.\n\nFor David in Rathfriland, the Rising would have been terrifying. The United Irishmen, despite their initial cross-sectarian ideals, became increasingly associated with Catholic grievances in the eyes of many Protestants, especially after sectarian violence erupted. In County Down, the Battle of Ballynahinch (June 1798) saw rebels, led by figures like Henry Munro (a Presbyterian), defeated by British forces. A Protestant gentry family would have viewed the rebels as a direct threat to their property, status, and lives, fearing both the violence and the potential for a Catholic uprising.\n\nAs rebels roamed, particularly in areas like the Mourne Mountains near Rathfriland, loyalist families took measures to protect their resources. Grain stores, livestock, and homes were at risk of being looted by rebels or confiscated by British troops demanding supplies. A gentry family might have armed their tenants, joined local yeomanry units, or fortified their estate, all while grappling with the fear of betrayal by disaffected tenants who might sympathize with the rebels.\n\nAlthough the United Irishmen included Protestants like Wolfe Tone and Henry Munro, the Rising deepened sectarian divides. In Rathfriland, a mixed but predominantly Protestant town, a gentry family would have been wary of Catholic neighbours, fearing they might join the rebels. The rise of the Orange Order, founded in 1795, gained traction during this period as a Protestant defence organization, and families like the Mortimers or Ingoldsbys might have supported or joined such groups to protect their interests.\n\nRathfriland, located in the barony of Upper Iveagh, was close to the action during the Rising. The town’s strategic position on a hill made it a potential target for rebels, but it also housed loyalist forces, including yeomanry units. The nearby Battle of Ballynahinch, only 20 miles away, was a significant defeat for the rebels in Ulster, with many local men from Down joining the uprising. A Protestant gentry family in Rathfriland would have been on high alert, possibly organizing patrols or sending intelligence to British forces.\n\nThe phrase “rebels roamed” captures the chaotic reality of the time. In County Down, rebels often operated in small, mobile bands, attacking loyalist homes, burning barns, and seizing supplies. For a gentry family, this meant constant vigilance—barricading their estate, hiding valuables, and ensuring their grain stores were secure. The Mortimer ancestors, for example, might have had a large estate near Rathfriland, making them a prime target for rebel attacks.\n\nThe Rising’s failure led to harsh reprisals. British forces and loyalist militias executed suspected rebels, burned homes, and imposed martial law. For a Protestant gentry family, this might have brought relief but also entrenched their distrust of the Catholic majority. The Ingoldsbys, with their historical ties to authority, might have played a role in post-rebellion justice, possibly as magistrates sentencing captured rebels.\n\nThe Rising was a traumatic event for the Anglo-Irish gentry. A family tied to the Mortimers, Ingoldsbys, and Cromwells would have feared losing their land, status, and lives. The violence of 1798—massacres like Scullabogue in Wexford, where Protestant families were burned alive—would have heightened their anxiety, even if such atrocities were less common in Down.\n\nTheir connection to the establishment would have reinforced their loyalty to Britain. The Cromwellian ancestors, a symbol of Protestant dominance, would have reminded David of the family's historical role in maintaining control over Ireland, a role they felt compelled to uphold during the Rising.\n\nAs gentry, they had tenants who depended on them for protection and leadership. They would have rallied their Protestant tenants to defend the estate, while also navigating tensions with Catholic tenants who might have been sympathetic to the United Irishmen’s cause.\n\nThe United Irishmen’s uprising also threatened their privileged position, leading them to guard their grain and property against roaming rebels, while aligning with British forces to suppress the revolt. In County Down, the Rising deepened sectarian divides, and their role as loyalist landowners would have been both a source of power and a target for rebel anger. The trauma of 1798 would have left a lasting mark, shaping their identity and politics for generations.\n\n[[fig 1]]\n\n## William ctd …\n\nThe 1821 Census has my Da in Claughwellymor—Cloughballymore, as we call it now, a busy spot back then and full of Reillys and Brogans, as the records show. He was a gentleman farmer, not just a man of the plough but one with a bit of standing. Holdin’ acres was no small thing in Cavan, where the land’s good but the times were often hard.\n\nThe Mortimers were Protestants, tied to the Church of Ireland, and their name carried weight in Mullagh. They lived at Lakeview, a fine house mentioned in the old records, and I can still see my Da there, overseein’ his fields and tenants. Ma, God rest her, kept the home, teaching us prayers, her hands never idle.\n\n[[fig 2]]\n\nDa married in 1800, to a woman we called Mrs O’Reilly. Her father, Counsellor O’Reilly of Eccles Street, Dublin, was a steady soul who kept the house in order. They had eight weans: Richard in 1800, Charles in 1802, the twins James and me … William in 1805, Ellen and Mary in 1811, and Sally in 1813. My Da was a man of few words but fierce determination, risin’ early to check the crops or tally the livestock. As a gentleman farmer, he grew oats or flax, kept cattle for Mullagh’s fairs, held six times a year for pigs, butter, and such. His acreage across Claughwellymor and Cornekill was prime land, enough to support a family and hire a few hands and employ a gardener like our Robert Reilly, who worked the Mortimer estate.\n\nThey say the Mortimers came from Normandy, descended from a Viking called Rollo, who turned duke in France. That’s the oul’ yarn, handed down like a well-worn shawl. By David’s time, there were no lords, but they’d been in Ireland for generations, since the Cromwellian days saw land grants issued to his supporters to help them settle in Cavan among the lakes and hills.\n\nThe family tales speak of knights and castles, like Wigmore. The name, Mortimer, from old Norman roots—“still water,” they say—came with those who built lives amid wars and tithes. They weathered lean years, buried kin in churchyards, holding to their Protestant faith through the 1700s’ strife. They passed down a quiet strength, a Puritan streak that kept my Da steady, and me after him, when the Famine tested us sore.\n\nMy brothers and sisters were Da’s legacy, each carrying his fire. Richard, born 1800, was a farmer, I reckon, till fever took him in ’57, his life bound to the land. Charles, born 1802, lived till ’66, a weaver, his loom singing in a cabin nearby, raising his own through the Famine’s shadow. James, born with me in 1805 stayed to till the soil. The lasses, Ellen and Mary, born ’11, and Sally in ’13, learned to spin and sew, likely wed to local lads, their voices bright in a home stretched thin by want. They all faced the hunger, as I did, when the potatoes turned black.\n\nIn the 1840s, I was 40, a man of Mullagh, weaving linen and farming a plot near the lough, with Fanny and our five wee ones— your kin, Mary Frances, Letitia, and the others. The blight hit in ’45, and by ’47, Black ’47, Mullagh was a ghost, its fairs silent, its people lost to fever or Newry’s ships. I broke stones on relief roads for a shilling, bought Quaker meal, gritty and yellow, to feed my babes, swearing we’d never see Kells workhouse. Da’s lessons—work hard, share what ye have—kept me going. I’d share a handful of meal with neighbours, Catholic or Protestant, for hunger cared not for creed.\n\nMy ancestors’ blood ran in me, their endurance a fire. Da had faced hard seasons, and his da before him, through droughts or rebellions, teaching us to hold fast. By the fire, I’d tell my children tales of Ulster’s hills, like Da told me, while all the time dreaming of a better land.\n\nIn ’63, that dream took Fanny and me to Queensland on the Cairngorm with Mary Frances, who had by then wedded Robert Dawson Soden. Da, gone 22 years, would’ve nodded, knowing the courage that took. In Pine Mountain, I farmed again, the soil kinder than Cavan’s. Our children, the girls, one at a time, and then the boys as young men with their wives, all began carrying the Mortimer name to Australia.\n\n[[fig 3]]",
+      "note": ""
+    },
+    {
+      "id": "david",
+      "title": "The Story of 4th Great Grandfather David Mortimer",
+      "nav": "David Mortimer",
+      "kind": "story",
+      "pages": [
+        34,
+        35,
+        36
+      ],
+      "images": [
+        {
+          "src": "assets/images/p34-chart.jpg",
+          "alt": "Family-tree chart for David Mortimer, as printed",
+          "caption": "Family chart as printed (tap to enlarge)",
+          "size": "medium",
+          "page": 34
+        },
+        {
+          "src": "assets/images/p36-ruin.jpg",
+          "alt": "Ruined stone building",
+          "caption": "",
+          "size": "medium",
+          "page": 36
+        }
+      ],
+      "text": "[[fig 0]]\n\nWe’re Protestants, tied to the Church of Ireland, and our family’s story goes back to the days of Cromwell, when the land was carved up and given to folk like us. I’ll tell you how the Mortimers came to be here.\n\nIt all goes back to the 1650s, after Cromwell’s army swept through Ireland, puttin’ down the rebellion with a heavy hand. I was born over a hundred years later, but the oul’ stories live on, passed down like a well-worn coat. Cromwell was a fierce man, a Puritan who wanted to break the back of the Irish lords and the Catholic gentry. After the English Civil Wars, from 1649 to 1653, he set about takin’ the land from them that fought against him—mostly the Gaelic Irish and the Old English who stayed loyal to the Crown and the Pope. The Act of Settlement in 1652 was his way of settlin’ scores, and he sent them west, “to hell or to Connaught,” as the sayin’ goes, leavin’ the good land in Ulster and elsewhere for his soldiers and supporters.\n\nThe Mortimers, me ancestors, were among them that got a share. We’d come to Ireland, in the early 1600s, durin’ the Plantation of Ulster, when King James sent English and Scots to settle the north. Family lore has it we were yeomen or small gentry, maybe from Devon or thereabouts, with Norman roots goin’ back to a Viking called Rollo, but that’s another tale. By Cromwell’s time, we were Protestants, loyal to the new order, and when the land grants came, a Mortimer—me great-great-great-grandfather was given a parcel here in Cavan. It wasn’t the grandest estate, mind you, but a fair few acres in Mullagh, near where Claughwellymor sits now, and the beginnings of Lakeview, the house we’ve since called home.\n\nCavan was a wild place then, full of bogs and woods, not like the tidy fields I farm today. The Cromwellian grants were meant to make the land profitable, to turn it into somethin’ English, with Protestant farmers who’d pay taxes and keep the peace. Me ancestor got his acres as part of that plan, for servin’ in Cromwell’s army or backin’ his cause with coin or loyalty. The records are scant, but I’ve heard tell of Mortimers in Cavan since the 1660s, listed in the Hearth Money Rolls, payin’ taxes on a hearth or two—modest folk, but landed all the same. They’d have taken over from some Irish family, maybe a Reilly or a Brady, who were sent packin’ to the west, their lands forfeited for fightin’ against Cromwell.\n\nThat land became the root of our family here. Over the generations, the Mortimers worked it, growin’ oats and flax, keepin’ cattle for the Mullagh fairs. By me time, in 1821, I’ve 75 acres across Claughwellymor and Cornekill, a decent holdin’ for a gentleman farmer, though I’ve tenants to manage and tithes to pay to the Church of Ireland. The Cromwell grants gave us a start, but it was hard graft that kept us here. The oul’ ones faced tough times—raids in the 1690s durin’ King William’s wars, and later the Penal Laws that kept the Catholics down but stirred up resentment. Me ancestors held on, though, passin’ the land down till it came to me.\n\nI married in 1800, raised eight weans—Richard, Charles, James, William, Ellen, Mary, and Sally—and I’ve tried to give them the same sense of root that the Cromwell grants gave us. The years haven’t been kind. The 1820s brought wet harvests, and the linen trade, which many in Cavan depend on, has been shaky. Some of me kin talk of leavin’ for America or Australia, but I’ll not budge. This land, granted by Cromwell’s hand, is ours, and I’ll farm it till I’m laid to rest, likely in Mullagh’s Church of Ireland graveyard, where me own father lies.\n\nThe Mortimers started as Normans, became English, then Irish Protestants, and it was Cromwell’s grants that brought us to Cavan. They gave us a foothold, a chance to build a life, and I’ve done me best to honour that…\n\n[[fig 1]]",
+      "note": ""
+    },
+    {
+      "id": "lakeview",
+      "title": "Editor's Note: Mortimer Family Estates in County Cavan",
+      "nav": "Lakeview",
+      "kind": "story",
+      "pages": [
+        37,
+        38
+      ],
+      "images": [
+        {
+          "src": "assets/images/p38-garden.jpg",
+          "alt": "Walled garden (image credit printed on the photo: Bridgeman Images)",
+          "caption": "",
+          "size": "medium",
+          "page": 38
+        }
+      ],
+      "text": "The nucleus of Lakeview House is believed to date back to the mid-17th century and since that time has remained in the possession of the Mortimer family and their descendants. Leet lists David Mortimer as resident and Lewis records Lakeview as a Mortimer home. Griffith’s Valuation names Charles Mortimer as the occupant and owner. The buildings were valued at £11. In 1906, David A Mortimer held about 500 acres of untenanted land and buildings valued at £11.15.0. Since the mid-1990s Lakeview has been the home of Jonathan and Daphne Shackleton and they have restored the gardens.\n\nIn 1667, James Mortimer received a substantial land grant of 1,205 acres in the barony of Castlerahan, County Cavan, encompassing Cloghabeg and a modest parcel in County Meath. An additional grant of smaller acreages in these counties was awarded in December 1669. Historical records from The Belfast Monthly Magazine (III, 401) note the 1810 marriage of David Mortimer of Lakeview to Miss O’Reilly, daughter of Counsellor O’Reilly of Eccles Street, Dublin. By the mid-19th century, Charles Mortimer maintained an estate at Lakeview in the parish of Mullagh, while William Mortimer held the townland of Lislin. Charles Mortimer wed Abigail Eleanor, daughter of Reverend Charles Atkinson Caffry, rector of Mullagh, and their eldest son, David Atkinson Mortimer, inherited Lakeview. In 1876, David A. Mortimer owned 817 acres in County Cavan. Having married twice but without issue, his estate passed to his nephew, Gerald Mortimer, who married Aileen Eleanor Levinge. Lakeview is currently the residence of Jonathan and Daphne Levinge Shackleton.\n\n**https://daphnelevingeshackleton.wordpress.com/13-2/**\n\nThe lands at Lakeview, of the townland of Cloghballybeg, were granted to the Mortimer family by Charles II in 1666. The house was built, the gardens and orchard laid out and the lands farmed continuously until until 1996 when the present owners became custodians. The original house (behind the garden room), was probably a single-story thatched cottage which was then lofted; the reception rooms were added in the early 1800’s. The vernacular yard buildings are of various ages too and there is a 18th century Deerpark on the property. Several tree enclosures were built and planted during the famine of the 1840s.\n\nMuch of the other and distinctive tree planting, mainly of beech, is from the early 1800’s and was carried out by David Mortimer. It is not known when the garden and orchard were enclosed but they are both represented on the earliest Ordnance Survey maps. The layout of the present garden builds on the design and gardening skills of Ailleen Mortimer (nee Levinge) who constructed the terraces and paved area adjacent to the house in the 1930’s at which time the rest of the garden was supplying fruit and vegetables for the house. Some trees, shrubs and roses remain from her gardening activities and some perennials rescued and replanted.\n\nBy 1996, when Daphne and Jonathan Shackleton began the restoration, most of the garden was neglected and derelict. In 1996 the garden was cleared of scrub and it was almost totally ploughed and rotavated in 1997. The walls were then repaired, paths laid out and edged (following the existing layout where known) and the terraces and pavery restored by Joe Lynch.\n\nPlanting of the Cottage Bed, the Terraces, the Main Border and Yellow Border commenced in autumn 1997 and spring 1998. The Woodland Garden, Magnolia Bed, Wall beds and Fruit Garden were planted in 1999 and 2000. Nearly all the perennials planted originated from the Shackleton Garden, Beech Park, Clonsilla, Co. Dublin.The orchard was cleared initially, any sound apple trees retained and new fruit trees planted in 1998 and 1999.\n\nAdditional plants have been continuously added as the gardens developed.\n\n[[fig 0]]",
+      "note": ""
+    },
+    {
+      "id": "geraldeen",
+      "title": "Cousin Geraldeen Mortimer",
+      "nav": "Geraldeen",
+      "kind": "story",
+      "pages": [
+        39,
+        40
+      ],
+      "images": [
+        {
+          "src": "assets/images/p40-timeline.jpg",
+          "alt": "Circular panel headed “Geraldeen’s timeline is as follows:” listing years 1919 to 2015 (small print; see the PDF page 40)",
+          "caption": "Geraldeen’s timeline is as follows:",
+          "size": "medium",
+          "page": 40
+        }
+      ],
+      "text": "I’m delighted to share with you a remarkable story from cousin Geraldeen Mortimer herself, a woman whose life was filled with joy, challenges, and an unwavering spirit of kindness. In her own words, she paints a vivid picture of a life well-lived, and I hope her tale inspires you as much as it has moved me.\n\n\"Oh, my dears, let me tell you about my life, with all its twists and turns, as I saw it through my eyes. I came into this world on the 27th of March, 1919, right at home on our Lakeview farm in County Cavan, Ireland. The new Irish Republic was just finding its feet, and there I was, little Geraldeen Mortimer, born to George and Alyce, with my big sister June to keep me company.\n\nGrowing up on that farm was a grand adventure. June and I ran wild, learning from nannies and governesses—oh, we were a handful! We went through seven governesses in five years, if you can believe it, though one dear soul stayed three years because we liked her so. Eventually, they sent us off to boarding schools in Wales and England. At Moreton Hall in Shropshire, the headmistress had me break in her young Welsh cob—such a fine excuse to skip those dreary lessons! Then, off to finishing school in Switzerland, where I picked up French, learned to skate and ski—useless back in Ireland, mind you, unless the lake froze over, which was a rare treat.\n\nBack home, June and I threw ourselves into horses. We’d buy young ones, train them up, hunt, show jump, and sell them on. One year, I took my darling Zircon, hitched to his trap, to the local station, loaded him onto the train to Dublin, and drove him across the city to Ballsbridge for the Dublin Showground. All week, we jumped, and I stayed with friends, dancing at the Show parties every night. Then, we trundled back home the same way—what a lark!\n\nIn 1945, June’s friend Nancy brought her brother Peter, a dashing Naval Officer, to Lakeview. Well, he took one look at me and was smitten, but my parents weren’t so sure a naval life would suit me. They made us wait two whole years before we could marry in 1947. Oh, what a life we had after that—nine homes we moved to, following Peter’s career! I learned to live in towns, even abroad, often alone with our four darlings—Katharine, Gerald, Philippa, and Anthony—while Peter was off at sea for months. But I made our home a warm, happy place, always room for extra children, cousins, or friends on holiday. Every summer, I’d take the lot back to Lakeview, letting them taste the freedom I’d known. I never worked a job, you see—my joy was in my family, our dogs, ponies, my garden, and cooking. Feeding a crowd of hungry children? Easy as pie. Now, those grand naval dinner parties in Caithness and Washington DC in the ‘50s and ‘60s? Those were a bit daunting, I’ll admit.\n\nWhen Peter retired in 1975, we chose Grasspark in North Devon—my first time picking a home! Those 40 hilly acres were a delight, with our animals and livestock. I got back to riding, and oh, the joy of having my children and grandchildren visit. But life wasn’t all sunshine. Losing my boys, Gerald in 1988 and Anthony in 2002, broke my heart. I wrote in my diary, 'I cried every day for more than a year, such very dear boys. The death of one’s child is very deep, but one pays a high price for love.' I couldn’t fathom why God would allow it, not once but twice.\n\nIn my later years, arthritis got the better of me. I couldn’t get about—too painful to climb steps or even get in a car. But I didn’t like to fuss. If you asked how I was, I’d just ask about the day outside instead. Family and friends kept me going, especially my dear Olivia, my great-niece Fiona, and my 11 grandchildren and six great-grandchildren. My eyes weren’t what they used to be, but I loved seeing my garden’s flowers and hearing the birds. I knitted, made tapestry cushions for everyone, wrote letters, and read big-print books. When Peter passed in 2009, after 62 years together, I was sad but glad his pain was done. Those last seven years, I had over 40 carers come and go. I kept little notes on them, scoring them out of 10—made it easy to know who I’d have back!\n\nLooking back, I hope I left a bit of love and kindness in this world. I tried to see the good in everyone, to laugh and keep that twinkle in my eye, and to put others first. My family carries me in their hearts, and if my life inspires even a little, well, that’s enough for me.\"\n\n[[fig 0]]",
+      "note": "This page has no printed title in the book; the heading here is only a label."
+    },
+    {
+      "id": "mary-frances",
+      "title": "The Mary Francis Soden (nee Mortimer) Story",
+      "nav": "Mary Frances",
+      "kind": "story",
+      "pages": [
+        41,
+        42,
+        43
+      ],
+      "images": [
+        {
+          "src": "assets/images/p41-chart.jpg",
+          "alt": "Family-tree chart for Mary Frances Soden, as printed",
+          "caption": "Family chart as printed (tap to enlarge)",
+          "size": "wide",
+          "page": 41
+        },
+        {
+          "src": "assets/images/p43-family.jpg",
+          "alt": "Old family photograph",
+          "caption": "",
+          "size": "small",
+          "page": 43
+        }
+      ],
+      "text": "[[fig 0]]\n\nI’m Mary Frances Soden, born Mary Mortimer, on the 29th December 1841 in Mullagh, County Cavan, Ireland. Daughter of William and Fanny. Granddaughter of David.\n\nMy heart still aches for those green hills, where I grew up in a Protestant family, tied to the Church of Ireland. My father, William, and mother, Fanny Kellett, raised us on tales of our Mortimer kin—Norman blood, Viking roots, and land granted by Cromwell in the 1650s. My grandfather, David, farmed 75 acres at Cloughballymore, a gentleman in his own right but by 1862, at 22, I had been wed to Robert Dawson Soden in Balbriggan, County Dublin and it was plain to us all that Ireland was no longer the land of promise it once seemed … The Great Famine’s shadow lingered, though it had ended years before. The linen trade, Cavan’s lifeblood, was crumbling, and even families like ours, with land, felt the pinch. There was little for a young couple to build on. Robert, orphaned as a seven year old would always grieve for his family despite he and his 2 brothers having Kellet kin to turn to.\n\nWord came of Australia—Queensland, they said, needed hands to work the land, offering passage for just £5 a head. My parents, Fanny and William and our brothers and me sisters set their hearts on it. We all saw a chance for a better life, far from the loss, hunger and want.\n\nSo, we sold what we could—linens, furniture, bits of family keepsakes—and left Mullagh’s lake behind. I’ll never forget the ache of that farewell, knowing I’d likely never see Cavan again.\n\nWe made our way to Liverpool, where the Cairngorm, a Black Ball ship, waited. On March 22, 1863, we boarded, 153 souls from Liverpool, joined by 187 more at Greenock, 340 in all. The ship sailed on March 28, bound for Brisbane, a 92-day journey. Robert and I were packed into steerage—cramped, damp quarters that smelled of salt and fear. The ship was a “wet” one, they said, and the damp took its toll. Measles struck early, claiming seven lives, mostly children. A case of whooping cough flared, and five others died—consumption, water on the brain. Twelve gone by journey’s end. Yet, the seas were kind for most of the way, save for rough waters near Australia’s coast.\n\nI carried a secret burden—our first child, growing inside me. On April 6, just days out from Greenock, the pains came. I was terrified, labouring in that swaying ship, but the midwife and my mother, Fanny, were my strength. When Kate was born, one of three babes born on the voyage, I held her close, her tiny warmth a spark of joy amidst the grief around us. I swore we’d make it to Australia, for her, for us. Life on the Cairngorm settled into a rhythm—hard tack and salt pork for meals, stolen walks on deck, and evenings brightened by a Cavan fiddler’s tunes. Flying fish and whales broke the monotony, glimpses of God’s wonders that kept my spirits up.\n\nOn July 2, 1863, we sighted Brisbane Roads, Moreton Bay. Dr. Hobbs, the Health Officer, cleared us, and we stepped onto Queensland’s soil, weary but alive. We stayed at the immigrant depot before settling at Pine Mountain, later moving to Mt Beppo. There, Robert and I farmed and raised our family—eleven children in all, five boys and five girls. Kate the first, the rest were born between 1863 and 1886. My parents settled nearby, and my sister Letitia was wed to Alexander Martin in Brisbane in 1866, putting down roots near Bundaberg. Queensland was nothing like Cavan’s rolling hills—but it held hope, a chance to build something new.\n\nI’ve never lost the lilt of Cavan in my voice, nor the stories of our Mortimer line—knights, Vikings, Cromwell’s men. Ireland lives in me, but Australia is home. The Cairngorm carried us across oceans, through sickness and storms, to a future we dared to dream. Robert and I built a legacy here, our children growing strong on this new land. That journey, hard as it was, made us who we are—resilient, hopeful, and forever tied to two worlds.\n\n[[fig 1]]",
+      "note": ""
+    },
+    {
+      "id": "tapestry",
+      "title": "The Story of Us: A Tapestry of Legacy",
+      "nav": "Tapestry",
+      "kind": "story",
+      "pages": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "images": [
+        {
+          "src": "assets/images/p47-tapestry.jpg",
+          "alt": "Section of an embroidered medieval tapestry showing mounted soldiers",
+          "caption": "",
+          "size": "",
+          "page": 47
+        }
+      ],
+      "text": "## by the Great Grandfathers\n\nAs William Mortimer, born in 1805 in the green hills of County Cavan, Ireland, a man whose life was shaped by the land and the faith of my forebears, standing beside my beloved Fanny Kellett, born in 1810, whom I married in 1837 at St. Michan’s in Dublin, I now look forward to the tales to be told in the Australian Story.\n\nTogether, Fanny and I raised five children in Mullagh, enduring the trials of the Great Famine before seeking a new life in Queensland, Australia, in 1863. As I reflect on our place in this vast ancestry tapestry, I see the Mortimers as a thread of resilience, woven into a greater fabric that stretches back to the English gentry of the Cromwells and Ingoldsbys, and binds us to the steadfast Kelletts. Our journey, from the fields of Cavan to the shores of Moreton Bay, is but one strand in The Story of Us, a tale of faith, fortitude, and family that spans centuries and continents. Let me guide you, dear kin, as we wrap up these storylines, tracing the legacy that unites us all.\n\n## The Cromwells: A Legacy of Ambition and Faith\n\nThe Cromwell storyline begins with Sir Oliver Cromwell, born in 1562 in Huntingdon, England, a man whose ambition and faith set the foundation for our family’s journey. Sir Oliver, knighted in 1598, inherited Hinchingbrooke House from his father, Sir Henry Cromwell, the “Golden Knight,” whose wealth from the Dissolution of the Monasteries built a legacy of grandeur. Sir Oliver married Elizabeth Bromley, and their daughter, Elizabeth Cromwell, born around 1595, became the bridge to our lineage through her marriage to Sir Richard Ingoldsby. Sir Oliver’s nephew, Oliver Cromwell, the Lord Protector (1599–1658), reshaped England and Ireland with his Commonwealth and the Cromwellian conquest, granting lands to Protestant families, a legacy that influenced our own path in Cavan.\n\nThe Cromwells’ ambition and Puritan zeal flowed through their descendants, shaping a family that stood firm through England’s civil wars and beyond. Their legacy of leadership and faith, rooted in Hinchingbrooke’s halls, became a beacon for generations, a thread of determination that wove its way into our story, inspiring us to seek new horizons when the famine struck.\n\n## The Ingoldsbys: A Bridge Across Lands – Sir Richard\n\nThe Ingoldsby storyline is mine to tell … it intertwines with the Cromwells through my wife Elizabeth, whose marriage to me before 1614 bound our fates. Our sons—Colonel Sir Richard Ingoldsby (1617–1685), Sir Henry Ingoldsby, 1st Baronet (1622–1701), and John Ingoldsby (1621–c. 1684)—carried our name across England, Ireland, and America, their lives a testament to resilience and adaptability.\n\nColonel Sir Richard, a man of fierce conviction, embodied the Puritan resolve of his Cromwell kin, joining the Parliamentarian cause in the English Civil War. As a Colonel in the New Model Army, he fought at Bridgwater and Bristol, but his most fateful act came in 1649 when he signed King Charles I’s death warrant, one of 59 regicides to do so. His Parliamentarian leanings, driven by opposition to the king’s policies, marked him as a radical, though he later claimed Oliver Cromwell coerced him into signing—a tale I heard with scepticism. At the Restoration in 1660, Richard’s pragmatic shift to Royalism, supporting General Monck and capturing John Lambert, secured his pardon. Charles II knighted him a Knight of the Bath in 1661, and he served as MP for Aylesbury until he died in 1685, buried in Hartwell Church, Buckinghamshire. His descendants in England continued our legacy, a thread of political service and redemption.\n\nSir Henry took our name to Ireland, initially serving Charles I before pledging loyalty to Oliver Cromwell. He fought in the 1649 Irish campaign at Drogheda and Limerick, becoming Governor of Limerick, and earned lands in County Clare and Meath. His political career saw him as MP for Clare, Limerick, and Kerry, and later in the Irish House of Commons, his adaptability securing his baronetcy of Beggstown, County Meath, at the Restoration. Henry raised a regiment for William III in 1689, serving until his death in 1701, leaving an Irish line that flourished through his son George. His descendants in Ireland became a cornerstone of our family’s presence in the Protestant gentry.\n\nJohn ventured to Boston, Massachusetts, by 1640, marrying Ruth Griffin before 1649 and founding the American Ingoldsby line. His descendants spread across the New World, a testament to the courage it took to build a new life far from England’s conflicts. Together, our sons’ descendants became a bridge to distant lands, their paths weaving our legacy across continents.\n\n## The Kelletts: Resilience in Cavan and Beyond – Sir Oliver\n\nThe Kellett storyline brings us closer to my heart through my beloved Fanny, born in 1810 in Lurgan, County Cavan. Fanny’s family, rooted in Cavan’s Protestant community, descends from John Chaloner, a reverend born in 1652, who married Betty Parsons in 1700. John’s mother, Anne Ingoldsby, was the daughter of Elizabeth Cromwell and myself, linking the Kelletts to our Cromwell-Ingoldsby heritage. John and Betty’s daughter, Cherrie Kellett, carried the name forward, and through her, our lineage flows to Mary Chaloner, Fanny’s 6th great-grandmother, who bore Jane Kellett, mother of Margaret Young.\n\n## Continued by William ..\n\nFanny and I raised five children in Mullagh, including Mary Frances, born in 1841, and Letitia, born in 1844. Our life in Cavan was shaped by the agrarian economy, reliant on potatoes and linen, until the Great Famine (1845–1852) brought devastation. The famine’s toll, with Cavan’s population dropping nearly 30%, pushed us to seek a new life. In 1863, we boarded the Cairngorm under Queensland’s assisted immigration scheme, arriving in Moreton Bay on September 29 after a three-month voyage. Mary Frances, married to Robert Dawson Soden, gave birth to our granddaughter Kate at sea, a symbol of hope. Letitia, who married Alexander Martin Sr. in 1866, settled in Barolin, near Bundaberg, contributing to the sugar industry. Our other children, including Charles Mortimer, born around 1839, also sought new paths, with Charles arriving in Queensland on the Queen of the Colonies in 1865.\n\n## The Mortimers: A Thread of Resilience by Mary Frances\n\nThe Mortimers’ storyline, my own, is one of endurance and renewal. In Mullagh, we faced the famine’s hardships, our Protestant faith—tied to the Ingoldsbys’ Puritan resolve through Elizabeth Cromwell’s 1613 marriage — giving us strength. The promise of land in Queensland drove our emigration, firstly with Robert, baby Catherine (Kate) and me, Ma and Da, and soon followed by Letitia, we established our Australian lineage in Pine Mountain in the Brisbane Valley and Barolin near Bundaberg. Charles, at 26, sought his own path, arriving in Queensland to contribute to the colony’s growth as to our other siblings and kin over time.\n\n## Uniting the Tapestry: A Legacy Across Time – Sir Richard\n\nThe Story of Us weaves these threads into a unified legacy. The Cromwells’ ambition and faith, rooted in Sir Oliver’s grandeur, set the stage for our journey, their Puritan ideals echoing through the generations. The Ingoldsbys, through my sons Richard, Henry, and John, bridged England, Ireland, and America, their resilience and adaptability shaping our family’s path. The Kelletts, through Fanny’s steadfast spirit, carried this heritage to Cavan, their faith sustaining us through famine and emigration. The Mortimers, as the final thread, brought these legacies to Australia, where our descendants—like Robin Truasheim and Peter McKean, united in marriage in 1975 at St Andrew’s Anglican Church in South Brisbane—discovered in 2025 their shared descent from Fanny and me, a revelation that binds our past to your present.\n\nOur tapestry, spanning centuries and continents, is one of faith, fortitude, and family. From Hinchingbrooke’s halls to Cavan’s fields, from Limerick’s governance to Boston’s frontier, and finally to Queensland’s shores, The Story of Us endures—a legacy of love and perseverance that lives on in you, our cherished descendants.\n\n[[fig 0]]",
+      "note": ""
+    },
+    {
+      "id": "cavan-map",
+      "title": "County Cavan",
+      "nav": "Cavan map",
+      "kind": "map",
+      "pages": [
+        48
+      ],
+      "images": [
+        {
+          "src": "assets/images/p48-inset.jpg",
+          "alt": "Small map of Ireland with County Cavan highlighted",
+          "caption": "",
+          "size": "small",
+          "page": 48
+        },
+        {
+          "src": "assets/images/p48-map.jpg",
+          "alt": "Map of County Cavan and neighbouring towns",
+          "caption": "",
+          "size": "",
+          "page": 48
+        }
+      ],
+      "text": "[[fig 0]]\n\n[[fig 1]]\n\nTake a tour:\n\nhttps://maps.app.goo.gl/PmDPbXtgVJgei2oH6",
+      "note": "The map page has no printed title; the heading here is only a label."
+    }
+  ],
+  "threads": [
+    {
+      "id": "editors",
+      "title": "The editors’ discovery (2025)",
+      "points": [
+        "Robin Truasheim and Peter McKean married on 25 January 1975 at St Andrew’s Anglican Church, South Brisbane.",
+        "In 2025 they found a shared lineage to 3rd great-grandparents William Mortimer (b. 1805) and Fanny Kellett (b. 1810)."
+      ]
+    },
+    {
+      "id": "fanny-william",
+      "title": "Fanny Kellett & William Mortimer",
+      "points": [
+        "Frances (Fanny) Kellett (b. 1810, Cornashesk, Virginia, Co. Cavan), daughter of Mary Bell and Charles Kellett.",
+        "William Mortimer (b. 1805, Mullagh), son of David Mortimer.",
+        "Married 22 December 1837 at St Michan’s, Dublin; home in Mullagh; five children.",
+        "Emigrated on the Cairngorm (Black Ball), arriving Moreton Bay 2 July 1863 (editor’s note / Mary Frances).",
+        "Book states: “Their parents Fanny and William are OUR Great Grandparents”"
+      ]
+    },
+    {
+      "id": "daughters",
+      "title": "Mary Frances & Letitia",
+      "points": [
+        "Mary Frances (b. 29 Dec 1841, Lislin, Mullagh) married Robert Dawson Soden (Balbriggan, 1862).",
+        "Book: Mary Frances is a McKean Great Grandmother and a Truasheim Great Aunt.",
+        "Letitia (b. 1844) married Alexander Martin (27 Sep 1866, St John’s, Brisbane); settled Barolin near Bundaberg.",
+        "Book: Letitia is a Truasheim Great Grandmother and a McKean Great Aunt.",
+        "Daughter Kate Soden born at sea on the Cairngorm, 6 April 1863."
+      ]
+    },
+    {
+      "id": "cromwell-ingoldsby",
+      "title": "Cromwell–Ingoldsby strand (as told in the book)",
+      "points": [
+        "Sir Oliver Cromwell (b. c.1562) married Elizabeth Bromley; later Anne Hooftman.",
+        "Daughter Elizabeth Cromwell married Sir Richard Ingoldsby (c.1613/before 1614).",
+        "Sons named in the book include Colonel Sir Richard Ingoldsby, Sir Henry Ingoldsby, and John Ingoldsby.",
+        "The book presents this line as ancestral background to the Kellett–Mortimer story."
+      ]
+    },
+    {
+      "id": "cherrie-line",
+      "title": "Chaloner / “Cherrie” strand (as told in the book)",
+      "points": [
+        "Betty (Lady Betty Parsons) and John Chaloner; daughter Mary “Cherrie” Chaloner (book: b. 1700, Rathmore).",
+        "The book states Cherrie married a Kellett man around 1720, bringing the Chaloner story into the Kellett line."
+      ]
+    },
+    {
+      "id": "david-line",
+      "title": "David Mortimer household (as told in the book)",
+      "points": [
+        "David Mortimer (1771–1841); married 1800 to “Mrs O’Reilly,” daughter of Counsellor O’Reilly of Eccles Street, Dublin.",
+        "Children named: Richard, Charles, James, William, Ellen, Mary, Sally (book also says eight children).",
+        "Lakeview / Cloughballymore (Claughwellymor) in Mullagh parish appear as family places."
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "src": "assets/images/cover.jpg",
+      "caption": "Cover — The Story of Us: Untangling the Threads",
+      "page": 1
+    },
+    {
+      "src": "assets/images/p02-wedding.jpg",
+      "caption": "Wedding photograph of Robin Truasheim and Peter McKean, 1975",
+      "page": 2
+    },
+    {
+      "src": "assets/images/p03-chart.jpg",
+      "caption": "Family chart as printed (tap to enlarge)",
+      "page": 3
+    },
+    {
+      "src": "assets/images/p05-photo.jpg",
+      "caption": "Photograph printed with Fanny’s story",
+      "page": 5
+    },
+    {
+      "src": "assets/images/p06-castle.jpg",
+      "caption": "Ruined castle beside a lake",
+      "page": 6
+    },
+    {
+      "src": "assets/images/p09-graves.jpg",
+      "caption": "Old gravestones in a churchyard",
+      "page": 9
+    },
+    {
+      "src": "assets/images/p09-couple.jpg",
+      "caption": "Old portrait photograph of a couple",
+      "page": 9
+    },
+    {
+      "src": "assets/images/p10-market.jpg",
+      "caption": "Painting of famine-era villagers with a potato harvest",
+      "page": 10
+    },
+    {
+      "src": "assets/images/p10-statues.jpg",
+      "caption": "Famine memorial statues",
+      "page": 10
+    },
+    {
+      "src": "assets/images/p11-crowd.jpg",
+      "caption": "Painting of a crowd outside a building",
+      "page": 11
+    },
+    {
+      "src": "assets/images/p12-heron.jpg",
+      "caption": "A woman at the lough’s edge",
+      "page": 12
+    },
+    {
+      "src": "assets/images/p12-book.jpg",
+      "caption": "They Came Direct “Cairngorm” 1863",
+      "page": 12
+    },
+    {
+      "src": "assets/images/p13-crest.jpg",
+      "caption": "Coat of arms",
+      "page": 13
+    },
+    {
+      "src": "assets/images/p14-tree.jpg",
+      "caption": "Typed family tree as printed (tap to enlarge)",
+      "page": 14
+    },
+    {
+      "src": "assets/images/p15-chart.jpg",
+      "caption": "Family chart as printed (tap to enlarge)",
+      "page": 15
+    },
+    {
+      "src": "assets/images/p17-fan.jpg",
+      "caption": "Ancestry chart as printed",
+      "page": 17
+    },
+    {
+      "src": "assets/images/p20-house.jpg",
+      "caption": "Engraving of a large country house",
+      "page": 20
+    },
+    {
+      "src": "assets/images/p21-portrait.jpg",
+      "caption": "Portrait of a gentleman in Tudor-era dress",
+      "page": 21
+    },
+    {
+      "src": "assets/images/p22-seated.jpg",
+      "caption": "Portrait of a seated gentleman",
+      "page": 22
+    },
+    {
+      "src": "assets/images/p23-glass.jpg",
+      "caption": "Elizabeth Bourchier married Oliver Cromwell in this Church on 22nd August 1620",
+      "page": 23
+    },
+    {
+      "src": "assets/images/p26-warrant.jpg",
+      "caption": "Wax seals and signatures on an old parchment",
+      "page": 26
+    },
+    {
+      "src": "assets/images/p27-chart.jpg",
+      "caption": "Family chart as printed (tap to enlarge)",
+      "page": 27
+    },
+    {
+      "src": "assets/images/p30-engraving.jpg",
+      "caption": "Father Murphy and the heretic bullets",
+      "page": 30
+    },
+    {
+      "src": "assets/images/p31-lakeview.jpg",
+      "caption": "Painting of a country house among trees",
+      "page": 31
+    },
+    {
+      "src": "assets/images/p33-ship.jpg",
+      "caption": "Painting of a sailing ship",
+      "page": 33
+    },
+    {
+      "src": "assets/images/p34-chart.jpg",
+      "caption": "Family chart as printed (tap to enlarge)",
+      "page": 34
+    },
+    {
+      "src": "assets/images/p36-ruin.jpg",
+      "caption": "Ruined stone building",
+      "page": 36
+    },
+    {
+      "src": "assets/images/p38-garden.jpg",
+      "caption": "Walled garden (image credit printed on the photo: Bridgeman Images)",
+      "page": 38
+    },
+    {
+      "src": "assets/images/p40-timeline.jpg",
+      "caption": "Geraldeen’s timeline is as follows:",
+      "page": 40
+    },
+    {
+      "src": "assets/images/p41-chart.jpg",
+      "caption": "Family chart as printed (tap to enlarge)",
+      "page": 41
+    },
+    {
+      "src": "assets/images/p43-family.jpg",
+      "caption": "Old family photograph",
+      "page": 43
+    },
+    {
+      "src": "assets/images/p47-tapestry.jpg",
+      "caption": "Section of an embroidered medieval tapestry showing mounted soldiers",
+      "page": 47
+    },
+    {
+      "src": "assets/images/p48-inset.jpg",
+      "caption": "Small map of Ireland with County Cavan highlighted",
+      "page": 48
+    },
+    {
+      "src": "assets/images/p48-map.jpg",
+      "caption": "Map of County Cavan and neighbouring towns",
+      "page": 48
+    }
+  ],
+  "ocr_unsure": [
+    "All body text is now a hand transcription of the 48 page images (Tesseract was unavailable; the earlier RapidOCR text is kept in source/text/ocr/ only as a record). Spelling, punctuation and grammar are kept as printed, including the book’s own inconsistencies.",
+    "Kept as printed (not errors in this edition): “data bases” and “The Story of US.” (p2); “Cromwellian. Ingoldsby” (p5); “I’ spent” (p6); “were of were of” (p20); “until until” (p37); “Dublin.The” (p38); “Kellet kin” (p42); “Kellet” in the p3 and p13 titles; “Mary Francis” in the p41 title; “Claughwellymor”; no full stop after “OUR Great Grandparents” (p4).",
+    "Arrival date: the editor’s note (p4) and Mary Frances (p43) say Moreton Bay on July 2, 1863; the tapestry section (p46) says September 29 — both kept as printed.",
+    "Geraldeen’s timeline (p40) is printed very small inside a blue circle and is shown as a picture, not retyped. It appears to read 1919 born at Lakeview; 1947 married Peter; 1948 Katharine; 1950 Gerald; 1953 Philippa; 1956 Anthony; 1969 lost her mother, Alyce; 1977 her father, George; 1988 Gerald passed; 2002 Anthony; 2009 Peter; 2015 service at St. Winifred’s, Branscombe, on July 6 — the digits 1948, 1953, 1956 and 1969 are blurry in the source.",
+    "Pedigree/chart pages (p3, p14, p15, p17, p27, p34, p41) are shown as cropped pictures; names inside the charts are not retyped.",
+    "Text printed inside photographs (gravestone inscriptions on p9, the “bridgeman images” watermark on p38, the tapestry lettering on p47) is not copied into the body text.",
+    "No Mary Millar / Earl Grey Girl chapter appears in this 48-page PDF — not invented here."
+  ],
+  "relationships_left_out": [
+    "Chart nodes on the diagram-only pages (not transcribed into the threads view).",
+    "Boneham / Cruickshank / Gregory chart detail on p41 beyond what the narrative prose states.",
+    "Any link from this book to Mary Millar (not present in the PDF)."
+  ]
+}
