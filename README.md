@@ -15,7 +15,7 @@ Then visit http://127.0.0.1:8765/
 ## Contents
 
 Static HTML/CSS/JS. Book text and page images live under `assets/`.
-The original PDF is at `assets/pdf/The-Story-of-Us-Untangling-the-Threads.pdf`.
+The original PDF is kept privately and is not published here.
 
 ## Note
 

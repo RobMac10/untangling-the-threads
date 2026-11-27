@@ -3,7 +3,7 @@
   "subtitle": "Untangling the Threads",
   "editor": "Robin Truasheim",
   "year": 2025,
-  "source_pdf": "assets/pdf/The-Story-of-Us-Untangling-the-Threads.pdf",
+  "source_pdf": null,
   "page_count": 48,
   "cover": {
     "src": "assets/images/cover.png",
@@ -19,15 +19,7 @@
       "pages": [
         2
       ],
-      "images": [
-        {
-          "src": "assets/images/p02-wedding.jpg",
-          "alt": "Wedding photograph of Robin Truasheim and Peter McKean, 1975",
-          "caption": "",
-          "size": "medium",
-          "page": 2
-        }
-      ],
+      "images": [],
       "text": "In 2025 I am untangling our ancestral tapestry. As satellites map the world and digital archives and data bases bridge continents, I try to unravel the threads that make up The Story of US. These tales connect us to the people and places of the past as well as to each other in the most surprising ways.\n\n## Meet the Editor:\n\nOn January 25, 1975, Robin Truasheim and Peter McKean were joined in marriage at St Andrew’s Anglican Church in South Brisbane, a union that marked the beginning of their shared journey. In 2025, they uncovered a remarkable connection: a shared lineage tracing back to a mutual 3rd great-grandfather, William Mortimer (born 1805), and his wife, their 3rd great-grandmother, Fanny Kellett (born 1810). Through Frances, and William, we can explore The Story of Us, a rich tapestry that weaves in our English gentry ancestors—the illustrious Cromwell and Ingoldsby families—revealing a heritage steeped in history and legacy.\n\n[[fig 0]]",
       "note": ""
     },
@@ -568,11 +560,6 @@
       "src": "assets/images/cover.jpg",
       "caption": "Cover — The Story of Us: Untangling the Threads",
       "page": 1
-    },
-    {
-      "src": "assets/images/p02-wedding.jpg",
-      "caption": "Wedding photograph of Robin Truasheim and Peter McKean, 1975",
-      "page": 2
     },
     {
       "src": "assets/images/p03-chart.jpg",
